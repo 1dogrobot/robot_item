@@ -1,0 +1,8 @@
+prefix=/home/yh/lasor/devel
+
+Name: track_one
+Description: Description of track_one
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

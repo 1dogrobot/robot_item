@@ -1,0 +1,8 @@
+prefix=/home/yh/lasor/devel
+
+Name: kitti_test
+Description: Description of kitti_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
